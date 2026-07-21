@@ -9,6 +9,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![Roboflow](https://img.shields.io/badge/Roboflow-datasets-6706CE)](https://roboflow.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Built](https://img.shields.io/badge/built-Aug–Oct_2024-lightgrey)
 [![Winner](https://img.shields.io/badge/🏆_Winner-HSE_Young_Entrepreneur-FFD700)](#-how-this-project-happened)
 
 <img src="docs/demo.gif" width="82%" alt="Hockey AI Analytics — live demo"/>
@@ -18,6 +19,8 @@
 </div>
 
 ---
+
+> 📅 **Project timeline.** Built in **August–October 2024** — it started at the hackathon, then ran for roughly another month and a half of work with the club. The project is **no longer under active development**; this repository is an archive of where it got to.
 
 ## 📋 Contents
 
