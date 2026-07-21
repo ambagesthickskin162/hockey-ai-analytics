@@ -71,7 +71,11 @@ We travelled to **Kazan** to work on it on-site with the club, and were invited 
 
 Later the project won the **"Young Entrepreneur"** competition at the **HSE Faculty of Computer Science**.
 
-The whole thing was built by a **team of two**.
+<div align="center">
+<img src="docs/hse-young-entrepreneur.jpg" width="76%" alt="Young Entrepreneur competition — HSE Faculty of Computer Science"/>
+<br/>
+<sub>🏆 The "Young Entrepreneur" competition at the HSE Faculty of Computer Science</sub>
+</div>
 
 ## ✨ What it measures
 
@@ -298,6 +302,11 @@ hockey-ai-analytics/
 - [ ] **Scale** — accuracy and throughput optimisation; recognise goals, blocks and substitutions
 - [ ] **Productise** — analyst dashboard + API, integration with existing analytics platforms
 
+## 👥 Authors
+
+- [**Simeon Kolchin**](https://github.com/simeonkolchin)
+- [**Dmitriy Kutsenko**](https://github.com/kdimon15)
+
 ## 📄 License
 
-MIT © [Simeon Kolchin](https://github.com/simeonkolchin)
+MIT © [Simeon Kolchin](https://github.com/simeonkolchin) & [Dmitriy Kutsenko](https://github.com/kdimon15)
