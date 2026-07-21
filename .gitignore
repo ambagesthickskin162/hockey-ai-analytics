@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model weights (published via GitHub Release)
+weights/*.pt
+*.pt
+
+# YOLO run artifacts
+runs/
+**/runs/
+
+# Media / data
+*.mp4
+*.avi
+data/
+output/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/

@@ -1,0 +1,1 @@
+from puck_detection.config import PuckDetectionCFG

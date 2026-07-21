@@ -1,0 +1,1 @@
+from jersey_recognition.config import JerseyRecognitionCFG
